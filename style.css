@@ -1,0 +1,377 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@700&display=swap");
+:root {
+  /* ### Theme 1 */
+
+  --circle: hsl(224, 28%, 35%);
+  /* #### Backgrounds */
+
+  --desaturatedBlue: hsl(222, 26%, 31%);
+  --darkDesaturatedBlue: hsl(223, 31%, 20%);
+  --veryDarkDesaturatedBlue: hsl(224, 36%, 15%);
+
+  /* #### Keys */
+
+  --desaturatedDarkBlue: hsl(225, 21%, 49%);
+  --DarkdesaturatedBlue: hsl(224, 28%, 35%);
+
+  /* DEl or Reset Keys Shadow  */
+  --DarkdesaturatedBlueshadow1: hsl(224, 28%, 35%) 0%;
+  --DarkdesaturatedBlueshadow2: hsl(224, 28%, 35%) 8%;
+  --DarkdesaturatedBlueshadow3: hsl(224, 28%, 35%) 92%;
+  --DarkdesaturatedBlueshadow4: hsl(224, 28%, 35%) 100%;
+
+  --red: hsl(6, 63%, 50%);
+  --darkRed: hsl(6, 70%, 34%);
+
+  --darkRedshadow1: hsl(6, 70%, 34%) 0%;
+  --darkRedshadow2: hsl(6, 70%, 34%) 8%;
+  --darkRedshadow3: hsl(6, 70%, 34%) 92%;
+  --darkRedshadow4: hsl(6, 70%, 34%) 100%;
+
+  --lightGrayishOrange: hsl(30, 25%, 89%);
+
+  /* Other buttons Shadow Color */
+  --grayishOrangeShadow1: hsl(28, 16%, 65%) 0%;
+  --grayishOrangeShadow2: hsl(28, 16%, 65%) 8%;
+  --grayishOrangeShadow3: hsl(28, 16%, 65%) 92%;
+  --grayishOrangeShadow4: hsl(28, 16%, 65%) 100%;
+
+  /* #### Text */
+
+  --veryDarkGrayishBlue: hsl(0, 0%, 100%);
+  --white: hsl(0, 0%, 100%);
+}
+
+.theme1 {
+  /* theme 1 */
+  --circle: hsl(35, 11%, 61%);
+
+  --desaturatedBlue: hsl(0, 0%, 90%);
+  --darkDesaturatedBlue: hsl(0, 5%, 81%);
+  --veryDarkDesaturatedBlue: hsl(0, 0%, 93%);
+
+  /* #### Keys */
+
+  --desaturatedDarkBlue: hsl(185, 42%, 37%);
+  --DarkdesaturatedBlue: hsl(185, 58%, 25%);
+
+  /* DEl or Reset Keys Shadow  */
+  --DarkdesaturatedBlueshadow1: hsl(185, 58%, 25%) 0%;
+  --DarkdesaturatedBlueshadow2: hsl(185, 58%, 25%) 8%;
+  --DarkdesaturatedBlueshadow3: hsl(185, 58%, 25%) 92%;
+  --DarkdesaturatedBlueshadow4: hsl(185, 58%, 25%) 100%;
+
+  --red: hsl(25, 98%, 40%);
+  --darkRed: hsl(25, 99%, 27%);
+
+  --darkRedshadow1: hsl(25, 99%, 27%) 0%;
+  --darkRedshadow2: hsl(25, 99%, 27%) 8%;
+  --darkRedshadow3: hsl(25, 99%, 27%) 92%;
+  --darkRedshadow4: hsl(25, 99%, 27%) 100%;
+
+  --lightGrayishOrange: hsl(45, 7%, 89%);
+  /* Other buttons Shadow Color */
+  --grayishOrangeShadow1: hsl(35, 11%, 61%) 0%;
+  --grayishOrangeShadow2: hsl(35, 11%, 61%) 8%;
+  --grayishOrangeShadow3: hsl(35, 11%, 61%) 92%;
+  --grayishOrangeShadow4: hsl(35, 11%, 61%) 100%;
+  /* #### Text */
+
+  --veryDarkGrayishBlue: hsl(60, 10%, 19%);
+  --white: hsl(0, 0%, 100%);
+}
+.theme2 {
+  /* ### Theme 2 */
+  --circle: hsla(177, 92%, 70%, 0.2);
+  /* #### Backgrounds */
+
+  --desaturatedBlue: hsl(268, 75%, 9%);
+  --lightdarkDesaturatedBlue: hsl(268, 71%, 12%);
+  --veryDarkDesaturatedBlue: hsl(268, 71%, 12%);
+  /* #### Keys */
+
+  /* DEl or Reset Keys Shadow  */
+  --DarkdesaturatedBlueshadow1: hsl(285, 91%, 52%) 0%;
+  --DarkdesaturatedBlueshadow2: hsl(285, 91%, 52%) 8%;
+  --DarkdesaturatedBlueshadow3: hsl(285, 91%, 52%) 92%;
+  --DarkdesaturatedBlueshadow4: hsl(285, 91%, 52%) 100%;
+
+  --desaturatedDarkBlue: hsl(281, 89%, 26%);
+  --darkDesaturatedBlue: hsl(268, 71%, 12%);
+  --DarkdesaturatedBlue: hsl(52, 100%, 62%);
+
+  --red: hsl(176, 100%, 44%);
+  --darkRed: hsl(177, 92%, 70%);
+  /* colors for btns last child equal to button shadow  */
+  --darkRedshadow1: hsl(177, 92%, 70%) 0%;
+  --darkRedshadow2: hsl(177, 92%, 70%) 8%;
+  --darkRedshadow3: hsl(177, 92%, 70%) 92%;
+  --darkRedshadow4: hsl(177, 92%, 70%) 100%;
+
+  --lightGrayishOrange: hsl(268, 47%, 21%);
+
+  /* Other buttons Shadow Color */
+  --grayishOrangeShadow1: hsl(290, 70%, 36%) 0%;
+  --grayishOrangeShadow2: hsl(290, 70%, 36%) 8%;
+  --grayishOrangeShadow3: hsl(290, 70%, 36%) 92%;
+  --grayishOrangeShadow4: hsl(290, 70%, 36%) 100%;
+  /* #### Text */
+
+  --veryDarkGrayishBlue: hsl(52, 100%, 62%);
+  --white: hsl(0, 0%, 100%);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "League Spartan", sans-serif;
+  background-color: var(--desaturatedBlue);
+  transition: 0.3s;
+}
+main.container {
+  margin: 30px 0;
+  width: 310px;
+}
+.container-header {
+  display: flex;
+  margin: 30px 0;
+}
+.container-header h1 {
+  color: var(--veryDarkGrayishBlue);
+  font-size: 1.7rem;
+  align-self: flex-end;
+  line-height: 0.5;
+}
+.container-header > :nth-child(2) {
+  margin-left: auto;
+  font-size: 0.6rem;
+  color: var(--veryDarkGrayishBlue);
+  letter-spacing: 1px;
+  align-self: flex-end;
+  margin-right: 20px;
+}
+.container-header .theme-container {
+  display: flex;
+  flex-direction: column;
+}
+.theme-container .theme-number {
+  display: flex;
+  justify-content: center;
+  gap: 19px;
+  color: var(--veryDarkGrayishBlue);
+  font-size: 0.8rem;
+  margin-bottom: 5px;
+}
+.theme-container .box {
+  height: 20px;
+  width: 75px;
+  border-radius: 25px;
+  background-color: var(--veryDarkDesaturatedBlue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.theme-container .box .circle {
+  height: 13px;
+  width: 13px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: var(--circle);
+  transition: 0.4s;
+}
+.theme-container .box .circle.active {
+  background-color: var(--darkRed);
+}
+.display-container {
+  margin: 30px 0;
+  position: relative;
+}
+.display-container .display {
+  width: 100%;
+  padding: 25px 20px;
+  text-align: right;
+  color: var(--veryDarkGrayishBlue);
+  border: none;
+  border-radius: 10px 10px 0 0;
+  background-color: var(--veryDarkDesaturatedBlue);
+  font-family: "League Spartan", sans-serif;
+  font-size: 2rem;
+}
+.display-container .display:focus {
+  outline: none;
+}
+.btns-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 20px;
+  background-color: var(--darkDesaturatedBlue);
+  padding: 20px;
+  border-radius: 10px;
+  column-gap: 10px;
+}
+.btns-container > :nth-child(17) {
+  grid-column: 1/3;
+}
+.btns-container > :last-child {
+  grid-column: 3/5;
+}
+.btns-container > :nth-child(4) span.front,
+.btns-container > :nth-child(17) span.front {
+  background: var(--desaturatedDarkBlue);
+  color: var(--white);
+  letter-spacing: 1px;
+}
+
+.btns-container > :last-child span.front {
+  background: var(--red);
+  color: var(--lightGrayishOrange);
+}
+
+/* 3rd Button Effects  */
+
+.pushable {
+  position: relative;
+  border: none;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  outline-offset: 4px;
+  border-radius: 12px;
+  transition: filter 250ms;
+}
+.shadow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  background: hsl(0deg 0% 0% / 0.25);
+  will-change: transform;
+  transform: translateY(2px);
+  transition: transform 600ms cubic-bezier(0.3, 0.7, 0.4, 1);
+}
+.edge {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  background: linear-gradient(
+    to left,
+    var(--grayishOrangeShadow1),
+    var(--grayishOrangeShadow2),
+    var(--grayishOrangeShadow3),
+    var(--grayishOrangeShadow4)
+  );
+}
+.front {
+  display: block;
+  position: relative;
+  padding: 10px 5px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: var(--DarkdesaturatedBlue);
+  background: var(--lightGrayishOrange);
+  will-change: transform;
+  transform: translateY(-4px);
+  transition: transform 600ms cubic-bezier(0.3, 0.7, 0.4, 1);
+}
+
+.pushable:hover {
+  filter: brightness(110%);
+}
+.pushable:hover .front {
+  transform: translateY(-6px);
+  transition: transform 250ms cubic-bezier(0.3, 0.7, 0.4, 1.5);
+}
+.pushable:active .front {
+  transform: translateY(-2px);
+  transition: transform 34ms;
+}
+.pushable:hover .shadow {
+  transform: translateY(4px);
+  transition: transform 250ms cubic-bezier(0.3, 0.7, 0.4, 1.5);
+}
+.pushable:active .shadow {
+  transform: translateY(1px);
+  transition: transform 34ms;
+}
+.pushable:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.btns-container > :last-child span.edge {
+  background: linear-gradient(
+    to left,
+    var(--darkRedshadow1),
+    var(--darkRedshadow2),
+    var(--darkRedshadow3),
+    var(--darkRedshadow4)
+  );
+}
+.btns-container > :nth-child(17) span.edge,
+.btns-container > :nth-child(4) span.edge {
+  background: linear-gradient(
+    to left,
+    var(--DarkdesaturatedBlueshadow1),
+    var(--DarkdesaturatedBlueshadow2),
+    var(--DarkdesaturatedBlueshadow3),
+    var(--DarkdesaturatedBlueshadow4)
+  );
+}
+
+footer {
+  width: 100%;
+  padding: 10px;
+  margin-top: auto;
+  background-color: var(--white);
+  box-shadow: 0 -4px 4px #0000000d;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.2px;
+}
+.attribution a {
+  color: #4f7eff;
+}
+@media (min-width: 500px) {
+  main.container {
+    width: 450px;
+  }
+  .front {
+    padding: 20px;
+  }
+  .btns-container {
+    gap: 20px;
+  }
+  .attribution {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 1000px) {
+  main.container {
+    width: 500px;
+  }
+  .front {
+    padding: 20px;
+  }
+  .btns-container {
+    gap: 20px;
+  }
+  .shadow {
+    transform: translateY(3px);
+  }
+}
