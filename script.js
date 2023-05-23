@@ -1,7 +1,6 @@
 // Script For Theme
 const themeEl = document.querySelectorAll(".circle");
 const bodyEl = document.querySelector("body");
-
 themeEl.forEach((themeNo, index) => {
   themeNo.addEventListener("click", () => {
     themeEl.forEach((value, idx) => {
