@@ -200,7 +200,7 @@ main.container {
   text-align: right;
   color: var(--veryDarkGrayishBlue);
   border: none;
-  border-radius: 10px 10px 0 0;
+  border-radius: 10px;
   background-color: var(--veryDarkDesaturatedBlue);
   font-family: "League Spartan", sans-serif;
   font-size: 2rem;
